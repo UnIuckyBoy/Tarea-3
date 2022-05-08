@@ -1,14 +1,21 @@
-.Tamanio-foto{
+.Tamanio-foto {
     width: 300px;
     height: 300px;
 }
-.Titulo-CV{
+
+.Titulo-CV {
     color: brown;
     text-align: center;
+    font-family: 'Noto Sans JP', sans-serif;
+    background: #7abcff;
+    background: -moz-linear-gradient(top, #7abcff 0%, #60abf8 44%, #4096ee 100%);
+    background: -webkit-linear-gradient(top, #7abcff 0%, #60abf8 44%, #4096ee 100%);
+    background: linear-gradient(to bottom, #7abcff 0%, #60abf8 44%, #4096ee 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#7abcff', endColorstr='#4096ee', GradientType=0);
 }
-.ubicacion-foto{
+.ubicacion-foto {
     text-align: center;
 }
-.datos-CV{
+.datos-CV {
     padding-left: 42%;
 }
