@@ -1,0 +1,14 @@
+.Tamanio-foto{
+    width: 300px;
+    height: 300px;
+}
+.Titulo-CV{
+    color: brown;
+    text-align: center;
+}
+.ubicacion-foto{
+    text-align: center;
+}
+.datos-CV{
+    padding-left: 42%;
+}
